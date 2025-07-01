@@ -1,8 +1,4 @@
-### Hi there 👋, I'm zhiheng
-
-- :school: I'm a cheeky college student.:kissing:
-- 🌱 I’m currently learning Everything I like.      
-- 👯 I’m looking to collaborate on a project using C++ or Python.
+### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F723F0&center=&vCenter=&repeat=&width=1000&lines=To+be+the+quintessential+romance+of+the+cosmos)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=overflow0verture&show_icons=true&theme=tokyonight) 
